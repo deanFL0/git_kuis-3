@@ -1,0 +1,14 @@
+Nama: Dean Farhan Lazuardi
+
+Git adalah sistem pengontrol versi yang sangat populer digunakan dalam pengembangan perangkat lunak dan kolaborasi dalam proyek-proyek pengkodean. Ini memungkinkan para pengembang untuk melacak perubahan dalam kode sumber, mengoordinasikan pekerjaan tim, dan mengelola riwayat pengembangan dengan efisien.
+Fitur dalam Git
+1. Version control, git menyimpan setiap perubahan yang diubah pada source code.
+2. Git Branch, fungsi utama dari branch ialah agar pada saat penambahan fitur baru tidak mengganggu source code utama
+3. Merging, pengguna yang telah selesai mendevelop code dan sudah melakukan testing pada branch baru dapat menggabungkan perubahan yang telah dibuat ke branch utama.
+4. Staging area, pengguna dapat memilih perubahan mana yang akan di-commit ke repository.
+5. Git Rebase, digunakan untuk menggabungkan atau menggeser commit base.
+6. Hooks, script yang dijalankan secara otomatis saat terjadi peristiwa tertentu di dalam Git.
+
+GitHub adalah platform hosting yang paling terkenal dalam dunia pengembangan perangkat lunak. Didirikan pada tahun 2008, GitHub menyediakan tempat untuk menyimpan repositori Git secara publik maupun pribadi. GitHub sangat populer di kalangan komunitas open source karena memungkinkan pengembang untuk berbagi proyek mereka secara luas, menerima kontribusi dari komunitas, dan membangun ekosistem pengembangan yang terbuka.
+GitLab, seperti GitHub, adalah platform hosting yang memungkinkan pengembang untuk mengelola repositori Git. Namun, GitLab memiliki pendekatan yang lebih holistik dengan menyediakan alat untuk siklus pengembangan perangkat lunak yang lengkap, dari manajemen kode hingga CI/CD (Continuous Integration/Continuous Deployment) dan bahkan manajemen siklus aplikasi.
+GitHub lebih cocok untuk proyek open source dan kolaborasi, sementara GitLab cocok untuk tim yang menginginkan integrasi alur kerja DevOps yang lebih kuat.
